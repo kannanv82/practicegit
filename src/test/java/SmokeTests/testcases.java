@@ -29,7 +29,7 @@ public class testcases {
 	private searchpage search;
 	private bookmarkandsave bookmark;
 	String capital;
-	
+//presetup	
 //driver setup and initialize POM	
 @BeforeSuite
 public void setup() throws MalformedURLException{
