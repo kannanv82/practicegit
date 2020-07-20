@@ -30,7 +30,7 @@ public class testcases {
 	private bookmarkandsave bookmark;
 	String capital;
 	
-	
+//driver setup and initialize POM	
 @BeforeSuite
 public void setup() throws MalformedURLException{
 	final String urlString = "http://127.0.0.1:4723/wd/hub";
